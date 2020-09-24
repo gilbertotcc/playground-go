@@ -1,2 +1,3 @@
-# playground-go
-Playground repository for practicing Go.
+# Go playground
+
+Playground repository for practicing [Go](https://golang.org/).
